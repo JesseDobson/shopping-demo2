@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29496" started-at="2019-01-28T05:24:10Z" finished-at="2019-01-28T05:24:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29496" started-at="2019-01-28T05:24:10Z" finished-at="2019-01-28T05:24:39Z">
+      <class name="org.naic.mfl.se.challenge.tests.WebTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.naic.mfl.se.challenge.tests.WebTest@1593948d]" name="setUp" is-config="true" duration-ms="4602" started-at="2019-01-27T23:24:10Z" finished-at="2019-01-27T23:24:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="checkoutTest()[pri:0, instance:org.naic.mfl.se.challenge.tests.WebTest@1593948d]" name="checkoutTest" duration-ms="13578" started-at="2019-01-27T23:24:14Z" finished-at="2019-01-27T23:24:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutTest -->
+        <test-method status="PASS" signature="logInTest()[pri:0, instance:org.naic.mfl.se.challenge.tests.WebTest@1593948d]" name="logInTest" duration-ms="3763" started-at="2019-01-27T23:24:28Z" finished-at="2019-01-27T23:24:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logInTest -->
+        <test-method status="PASS" signature="signUpTest()[pri:0, instance:org.naic.mfl.se.challenge.tests.WebTest@1593948d]" name="signUpTest" duration-ms="6889" started-at="2019-01-27T23:24:32Z" finished-at="2019-01-27T23:24:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUpTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.naic.mfl.se.challenge.tests.WebTest@1593948d]" name="tearDown" is-config="true" duration-ms="646" started-at="2019-01-27T23:24:38Z" finished-at="2019-01-27T23:24:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.naic.mfl.se.challenge.tests.WebTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
